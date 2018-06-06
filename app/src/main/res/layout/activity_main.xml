@@ -6,6 +6,7 @@
     tools:context=".MainActivity">
 
     <xute.materialtoolbar.BottomToolbar
+        android:id="@+id/bottom_toolbar"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
