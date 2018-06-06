@@ -1,5 +1,5 @@
-## Material 2.0 Styled Toolbar 
-[![](https://jitpack.io/v/bxute/MaterialToobar.svg)](https://jitpack.io/#bxute/MaterialToobar)
+## Material 2.0 Styled Toolbar [![](https://jitpack.io/v/bxute/MaterialToobar.svg)](https://jitpack.io/#bxute/MaterialToobar)
+
 This is a small library for Toolbar. Recently Google announced Material Design 2.0.
 There lots of design improvements were discussed.
 Among them, Toolbar is one of the components which received newer design guidelines.
